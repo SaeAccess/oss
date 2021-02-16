@@ -13,7 +13,8 @@ require (
 	github.com/ipfs/go-ipfs-files v0.0.8
 	github.com/ipfs/interface-go-ipfs-core v0.4.0
 	github.com/jinzhu/configor v1.2.1
-	github.com/libp2p/go-libp2p-core v0.8.2
+	github.com/libp2p/go-libp2p-core v0.6.1
+	github.com/libp2p/go-libp2p-peerstore v0.2.6 // indirect
 	github.com/libp2p/go-sockaddr v0.1.0 // indirect
 	github.com/multiformats/go-multiaddr v0.3.1
 	github.com/qiniu/api.v7 v7.2.5+incompatible
